@@ -1,0 +1,5 @@
+.stack-work/
+taggy-frontend.cabal
+*~
+*.swp
+*.swo
