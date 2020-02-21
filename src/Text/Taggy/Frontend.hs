@@ -1,1 +1,1 @@
-module Text.Taggy.Frontend
+module Text.Taggy.Frontend where
